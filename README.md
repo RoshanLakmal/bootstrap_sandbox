@@ -1,13 +1,13 @@
 # bootstrap_sandbox
 Bootstrap Sandbox Project
 ## 2: Utilities
-- Basic Typography
-- Text Alignment & Display
-- Floats & Position
-- Colors & Background
-- Spacing
-- Sizing
-- Breakpoints
+- 2.2 Basic Typography
+- 2.3 Text Alignment & Display
+- 2.4 Floats & Position
+- 2.5 Colors & Background
+- 2.6 Spacing
+- 2.7 Sizing
+- 2.8 Breakpoints
 ## 3: CSS Components
 - 3.2 Buttons
 - 3.3 Navbar
