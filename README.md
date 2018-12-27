@@ -1,8 +1,8 @@
 # bootstrap_sandbox
 Bootstrap Sandbox Project
 2: Utilities
-2.2 Basic Typography
-2.3 Text Alignment & Display
+-Basic Typography
+-Text Alignment & Display
 2.4 Floats & Position
 2.5 Colors & Background
 2.6 Spacing
