@@ -19,3 +19,15 @@ Bootstrap Sandbox Project
 - 3.9 Cards
 - 3.10 Media Objects
 - 3.11 Jumbotron
+## 4: Grid & Flexbox
+- 4.2 Grid System
+- 4.3 Grid Alignment
+- 4.4 Flexbox
+- 4.5 Auto Margins & Wrap
+## 5: JavaScript Widgets
+- 5.2 Carousel
+- 5.3 Collapse
+- 5.4 Tooltips
+- 5.5 Popovers
+- 5.6 Modals
+- 5.7 ScrollSpy
